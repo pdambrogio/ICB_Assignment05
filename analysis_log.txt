@@ -1,1 +1,2 @@
 Day 1: Started analysis
+Day 2: Cleaned data
